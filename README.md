@@ -10,3 +10,7 @@ pip install selenium selenium-stealth webdriver-manager
 
 wget https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip 
 
+Добавлена возможность для вывода названия и ссылку всех машин любого бренда. Для того, чтобы поменять бренд машины, необходимо вставить url именно того бренда, который вы ищете
+
+url = "https://auto.ru/krasnodar/cars/**Brand_name**/all/"
+
