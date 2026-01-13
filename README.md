@@ -3,8 +3,10 @@
 Для начала работы с Selenium необходимо скачать библиотеки, а также программу chromewebdriver
 
 Команды для установки необходимых зависимостей:
+
 pip install selenium selenium-stealth webdriver-manager
 
 Также необходимо скачать программу chromiumwebdriver:
+
 wget https://chromedriver.storage.googleapis.com/114.0.5735.90/chromedriver_win32.zip 
 
